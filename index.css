@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    background: #1B244A;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h3 {
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+}
+
+
+h3 span {
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    color: #F94F6D;
+    background-color: black;
+    line-height: 1;
+    box-shadow: 20px 0 0px 10px #000, -20px 0 0px 10px #000;
+}
+
+/* Useful link:
+https://stackoverflow.com/questions/16597304/background-color-for-text-only
+*/
+
+p{
+    text-align: center; 
+}
+
+p>button {
+    border: 2px solid #9AABD8;
+    border-radius: 5px;
+    padding: 5px;
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #9AABD8;
+    background-color: #1B244A;
+}
