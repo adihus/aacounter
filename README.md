@@ -1,7 +1,1 @@
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
+Antonio and Adilah online counters fufufu
